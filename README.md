@@ -6,9 +6,6 @@ DOMAIN:POWERBI
 DURATION: 1 MONTH 
 MENTOR:NEELA SANTHOSH
 # DESCRIPTION
-"Developed an interactive dashboard integrating Python, leveraging libraries such as Matplotlib and Pandas. The dashboard visualizes key sales metrics, including:
-- Quantity and profit trends by state
-- Sales performance by payment mode
-Enabling actionable insights through data-driven storytelling.
-
-
+"Developed a comprehensive sales dashboard by integrating data from two separate Excel sheets. Implemented slicers to enable interactive filtering and drill-down capabilities, facilitating in-depth analysis and insights."
+# output 
+[dashboard.pdf](https://github.com/user-attachments/files/18631883/dashboard.pdf)
