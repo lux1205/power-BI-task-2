@@ -1,4 +1,4 @@
-# power-BI-task-5
+# power-BI-task-2
 COMPANY: CODTECH IT SOLUTIONS 
 NAME:R.LAKSHITHA 
 INTERN ID:CT08LCM 
@@ -11,4 +11,4 @@ MENTOR:NEELA SANTHOSH
 - Sales performance by payment mode
 Enabling actionable insights through data-driven storytelling.
 
-# output [python integrtation.pdf](https://github.com/user-attachments/files/18631721/python.integrtation.pdf)
+
